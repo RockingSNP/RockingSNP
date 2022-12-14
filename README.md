@@ -11,7 +11,7 @@
 - YOUTUBE😊: https://youtube.com/@souvikpramanick1549
 - INSTAGRAM : https://www.instagram.com/rockingsp_official/
 - HASHNODE : https://hashnode.com/@RockingSNP
-- DISCORD : discordapp.com/users/779638859679268884
+- DISCORD : https://discordapp.com/users/779638859679268884
 
 <!---
 RockingSNP/RockingSNP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
