@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on CNCF,WEMAKEDEVS,KUBERNETES
 - 📫 How to reach me 
-- Contact : souvikpramanick2004@gmail.com
 - FACEBOOK: https://www.facebook.com/RockingSNP/
 - TWITTER : https://twitter.com/SouvikP74860962
 - LINKEDIN : https://www.linkedin.com/in/souvik-p-117647218/
