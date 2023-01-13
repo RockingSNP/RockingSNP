@@ -23,7 +23,7 @@ Also You Can Follow Me on👉
 [![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)
 [![LinkedIN Badge](https://img.shields.io/badge/-Souvik_Pramanick-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
 [![LinkedIN Badge](https://img.shields.io/badge/-Souvik_Coordinates-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
-
+[![LinkedIN Badge](https://img.shields.io/badge/-Souvik_Coordinates-white?style=flat&logo=Blogger&logoColor=orange)](https://codingpramanick2020.blogspot.com/)
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -60,5 +60,6 @@ Also You Can Follow Me on👉
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+READ MY DAILY BLOGS ON BLOGGER🅱️: https://codingpramanick2020.blogspot.com/
 <!-- BLOG-POST-LIST:END -->
 //BYE
