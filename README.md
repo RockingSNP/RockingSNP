@@ -19,11 +19,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Also You Can Follow Me on👉
 [![Facebook Badge](https://img.shields.io/badge/-RockingSNP-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/RockingSNP/)
 [![Twitter Badge](https://img.shields.io/badge/-SouvikPramanick-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SouvikP74860962)
-[![HASHNODE Badge](https://img.shields.io/badge/-Hashnode-white?style=flat&logo=Hashnode&logoColor=darkblue)](https://hashnode.com/@RockingSNP)
+[![HASHNODE Badge](https://img.shields.io/badge/-TechNotes-white?style=flat&logo=Hashnode&logoColor=darkblue)](https://hashnode.com/@RockingSNP)
 [![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)
-[![LinkedIN Badge](https://img.shields.io/badge/-Souvik_Pramanick-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
-[![LinkedIN Badge](https://img.shields.io/badge/-Souvik_Coordinates-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
-[![LinkedIN Badge](https://img.shields.io/badge/-CodingPramanick-white?style=flat&logo=Blogger&logoColor=orange)](https://codingpramanick2020.blogspot.com/)
+[![LinkedIN Badge](https://img.shields.io/badge/-Askmeanything-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
+[![LinkedIN Badge](https://img.shields.io/badge/-Watch-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
+[![LinkedIN Badge](https://img.shields.io/badge/-&_Read-white?style=flat&logo=Blogger&logoColor=orange)](https://codingpramanick2020.blogspot.com/)
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
