@@ -17,23 +17,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; Social Handle :
 Also You Can Follow Me on👉
-[![Facebook Badge](https://img.shields.io/badge/-RockingSNP-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/RockingSNP/)
+
 [![Twitter Badge](https://img.shields.io/badge/-SouvikPramanick-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SouvikP74860962)
 [![HASHNODE Badge](https://img.shields.io/badge/-TechNotes-white?style=flat&logo=Hashnode&logoColor=darkblue)](https://hashnode.com/@RockingSNP)
-[![Slack Badge](https://img.shields.io/badge/-RockingSNP-white?style=flat&logo=Slack&logoColor=blue)](https://discordapp.com/users/779638859679268884)
-[![Youtube Badge](https://img.shields.io/badge/-Watch-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
 [![Blogger Badge](https://img.shields.io/badge/-&_Read-white?style=flat&logo=Blogger&logoColor=orange)](https://codingpramanick2020.blogspot.com/)
-[![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)
 [![Slack Badge](https://img.shields.io/badge/-RockingSNP-white?style=flat&logo=Slack&logoColor=blue)](https://discordapp.com/users/779638859679268884)
-[![Reddit Badge](https://img.shields.io/badge/-Askmeanything-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
+
 <a href="https://www.twitter.com/SouvikP74860962" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Souvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/RockingSNP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### 🛠 &nbsp;Languages and Tools :
+### 🌐 &nbsp; Other Socials:
+
+:[![Facebook Badge](https://img.shields.io/badge/-RockingSNP-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/RockingSNP/)
+[![Slack Badge](https://img.shields.io/badge/-RockingSNP-white?style=flat&logo=Slack&logoColor=blue)](https://discordapp.com/users/779638859679268884)
+[![Youtube Badge](https://img.shields.io/badge/-Watch-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
+[![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)[![Reddit Badge](https://img.shields.io/badge/-Askmeanything-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
 
 <p>
+
+### 🛠 &nbsp;Languages and Tools 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
