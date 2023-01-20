@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-th
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RockingSNP&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockingSNP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockingSNP&layout=compact&theme=vision-friendly-dark)](https://github.com/RockingSNP/github-readme-stats)
 
 ---
 <a href="#" class="scrollUpButton">Move to top🔼</a>
