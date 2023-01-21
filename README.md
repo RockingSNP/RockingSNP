@@ -25,8 +25,13 @@ Also You Can Follow Me on👉
 
 <a href="https://www.twitter.com/SouvikP74860962" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Souvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/RockingSNP" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><img src="https://img.shields.io/github/stars/RockingSNP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<a href="https://www.github.com/RockingSNP" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=RockingSNP&style=flat-square)
+</a>
 
 ### 🌐 &nbsp; Other Socials:
 
