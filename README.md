@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🤖 &nbsp; Creations :
 Check my works on👉
-[![replit](https://img.shields.io/badge/my_works-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@RockingSNP)
+[![replit](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@RockingSNP)
 
 ### 🔥 &nbsp; Social Handle :
 Also You Can Follow Me on👉
