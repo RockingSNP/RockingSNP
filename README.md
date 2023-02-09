@@ -15,6 +15,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![LinkedIN Badge](https://img.shields.io/badge/-RockingSNP-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-p-117647218/)
 
+### 🤖 &nbsp; Creations :
+Check my works on👉
+[![replit](https://img.shields.io/badge/my_works-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@RockingSNP)
+
 ### 🔥 &nbsp; Social Handle :
 Also You Can Follow Me on👉
 
@@ -24,7 +28,7 @@ Also You Can Follow Me on👉
 
 
 <a href="https://www.twitter.com/SouvikP74860962" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Souvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Me?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><img src="https://img.shields.io/github/stars/RockingSNP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <a href="https://www.github.com/RockingSNP" target="_blank" rel="noreferrer"><img
