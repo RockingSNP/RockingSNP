@@ -75,11 +75,10 @@ src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockingSNP&layout=compact&theme=vision-friendly-dark)](https://github.com/RockingSNP/github-readme-stats)
 
 ---
-### 👆 &nbsp;<a href="#" class="scrollUpButton">Get To Top🔼</a>
-
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
 READ MY DAILY BLOGS ON BLOGGER🅱️: https://codingpramanick2020.blogspot.com/
 <!-- BLOG-POST-LIST:END -->
-//BYE
+
+<a href="#" class="scrollUpButton">Get To Top🔼</a>
