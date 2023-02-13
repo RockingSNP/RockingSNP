@@ -82,3 +82,4 @@ READ MY DAILY BLOGS ON BLOGGER🅱️: https://codingpramanick2020.blogspot.com/
 <!-- BLOG-POST-LIST:END -->
 
 <a href="#" class="scrollUpButton">Get To Top🔼</a>
+<a href="javascript:location.reload(true)">Refresh this page</a>
