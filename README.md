@@ -44,7 +44,8 @@ src="https://img.shields.io/github/followers/RockingSNP?logo=github&style=for-th
 [![Facebook Badge](https://img.shields.io/badge/-RockingSNP-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/RockingSNP/)
 
 [![Youtube Badge](https://img.shields.io/badge/-Watch-white?style=flat&logo=Youtube&logoColor=crimson)](https://youtube.com/@souvikpramanick1549)
-[![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)[![Reddit Badge](https://img.shields.io/badge/-Askmeanything-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
+[![Discord Badge](https://img.shields.io/badge/-SouvikPlays-darkviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/779638859679268884)
+[![Reddit Badge](https://img.shields.io/badge/-Askmeanything-white?style=flat&logo=reddit&logoColor=red)](https://www.reddit.com/user/PramanickSouvik)
 
 <p>
 
